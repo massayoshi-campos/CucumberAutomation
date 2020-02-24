@@ -15,6 +15,7 @@ Projeto utilizando o Selenium+Cucumber para realização de testes no sistema We
 
 - Pré-requisito
 - Configuração
+- Instalação e Execução do Projeto
 - Features
 - Suporte
 - License
