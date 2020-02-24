@@ -3,13 +3,13 @@ Projeto utilizando o Selenium+Cucumber para realização de testes no sistema We
 
 # Site de demonstração para praticar o WebDriver:
 
-[HeroKuapp](http://the-internet.herokuapp.com/)
-[jqueryui](https://jqueryui.com/demos/)
-[PHPTravels](https://phptravels.com/demo/)
-[Newtours](http://newtours.demoaut.com/)
-[Way2Automation](http://www.way2automation.com/demo.html)
-[AutomationPractice](http://automationpractice.com/index.php)
-[Demoqa](https://demoqa.com/)
+- [HeroKuapp](http://the-internet.herokuapp.com/)
+- [jqueryui](https://jqueryui.com/demos/)
+- [PHPTravels](https://phptravels.com/demo/)
+- [Newtours](http://newtours.demoaut.com/)
+- [Way2Automation](http://www.way2automation.com/demo.html)
+- [AutomationPractice](http://automationpractice.com/index.php)
+- [Demoqa](https://demoqa.com/)
 
 # Índice
 
@@ -42,7 +42,7 @@ Projeto utilizando o Selenium+Cucumber para realização de testes no sistema We
 
 - Arquivo de exemplo .feature
 
-    ```
+```
 ## Login e validação dos títulos no menu lateral.
 Scenario: Login no sistema e validacao dos titulos no menu lateral
     Given Preencher o campo E-mail e Password no sistema
@@ -70,8 +70,9 @@ Scenario: Adicionar uma nova task e validar o seu cadastro no sistema
   ## Exclusao da task no sistema.
   Scenario: Exclusao da task no sistema
     And Validar a exclusao da task
-    
-    ```
+
+
+```
     
 # Suporte
 - e-mail: massayoshi.campos@gmail.com
@@ -83,6 +84,6 @@ Se você tem algum exemplo de código que gostaria de contribuir para este repos
 ## Comentário
 Os colaboradores deste repositório ficarão muito gratos por receber feedback! Se você deseja elogiar ou comentar algum exemplo de teste ou o repositório como um todo, faça-o pelo e-mail. Eu adoraria ouvir o que você pensa, então, reserve um momento para me informar.
 
-#License
+# License
 - Eclipse Public License 2.0
 - Copyright 2020 ©Massayoshi Campos
