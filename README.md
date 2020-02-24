@@ -38,6 +38,21 @@ Projeto utilizando o Selenium+Cucumber para realização de testes no sistema We
 
 - Windows: https://www.mkyong.com/maven/how-to-install-maven-in-windows/
 
+
+## Instalação e Execução do Projeto
+
+- Faça o download do zip ou clone do repositório Git;
+- Descompacte o arquivo zip (se você tiver baixado um);
+- Abra o Eclipse;
+- File >> Import >> Maven >> Existing Maven Projects >> Navegue até a pasta em que você descompactou o zip;
+- Você pode executar o teste pelo Cucumber ou Junit;
+- Junit;
+-- src/test/java >> br.com.test >> "DashboardValidation.java" ou "LoginValidation.java";
+--- Clique com o botão direito do mouse no arquivo e execute como Run As "JUnit test";
+- Cucumber;
+-- src/teste/resources >> features >> "Dashboard.feature" ou "Login.feature";  
+--- Clique com o botão direito do mouse no arquivo e execute como Run As "1 Cucumber Feature";
+
 # Feature
 
 - Arquivo de exemplo .feature
