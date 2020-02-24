@@ -66,12 +66,10 @@ Scenario: Adicionar uma nova task e validar o seu cadastro no sistema
     Then Preencher os campos para realizar a edicao da task
     And Clicar no botao edicao
     Then Validar a edicao da task
-    
-  ## Exclusao da task no sistema.
-  Scenario: Exclusao da task no sistema
-    And Validar a exclusao da task
-
-
+       
+## Exclusão da task no sistema.
+Scenario: Exclusão da task no sistema
+    And Validar a exclusão da task
 ```
     
 # Suporte
