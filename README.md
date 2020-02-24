@@ -75,7 +75,7 @@ Scenario: Adicionar uma nova task e validar o seu cadastro no sistema
 ```
     
 # Suporte
-## E-mail: > massayoshi.campos@gmail.com
+## E-mail: massayoshi.campos@gmail.com
 > Se você tiver alguma dúvida sobre este repositório ou precisar de ajuda para contribuir, não hesite em entrar em contato comigo.
 
 ## Contribuições
