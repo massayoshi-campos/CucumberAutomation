@@ -74,6 +74,7 @@ Scenario: Exclusão da task no sistema
     
 # Suporte
 ## E-mail: massayoshi.campos@gmail.com
+## Linkedin: https://www.linkedin.com/in/massayoshi-campos/
 > Se você tiver alguma dúvida sobre este repositório ou precisar de ajuda para contribuir, não hesite em entrar em contato comigo.
 
 ## Contribuições
@@ -83,5 +84,5 @@ Scenario: Exclusão da task no sistema
 > Os colaboradores deste repositório ficarão muito gratos por receber feedback! Se você deseja elogiar ou comentar algum exemplo de teste ou o repositório como um todo, faça-o pelo e-mail. Eu adoraria ouvir o que você pensa, então, reserve um momento para me informar.
 
 # License
-- Eclipse Public License 2.0
+- Esse código é livre para ser usado dentro dos termos da licença MIT license
 - Copyright 2020 ©Massayoshi Campos
